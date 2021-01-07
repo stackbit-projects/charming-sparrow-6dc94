@@ -6,7 +6,7 @@
   image: images/profile.jpg
   location: '한양대학교, 서울'
   relocation: true
-  company: Atomic Studio
+  company: ''
   for_hire: true
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
