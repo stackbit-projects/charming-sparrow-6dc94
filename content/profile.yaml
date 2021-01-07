@@ -4,7 +4,7 @@
   email: john.doe@change.me
   profession: 한양대학교 교수
   image: images/profile.jpg
-  location: 'Hanyang University,New York, USA'
+  location: '한양대학교, 서울'
   relocation: true
   company: Atomic Studio
   for_hire: true
